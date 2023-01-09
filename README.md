@@ -2,7 +2,7 @@
 
 
 - 🔭 PHP Developer and Software engineering student , Brazil.
-- 🌱 Learning Node
+- 🌱 Learning Laravel
 - 🤔 Nerd
 - 📫 How to reach me: renanpiresmattos@gmail.com
 
