@@ -2,7 +2,7 @@
 
 
 - 🔭 PHP Developer and Systems Analyst student from Brazil.
-- 🌱 Learning C#/ASP.NET
+- 🌱 Learning Java
 - 🤔 Nerd
 - 📫 How to reach me: renanpiresmattos@gmail.com
 
